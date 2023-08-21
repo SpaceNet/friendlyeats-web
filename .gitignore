@@ -1,3 +1,12 @@
+.github/
+
 **/.firebaserc
+**/.firebase/
+**/package-lock.json
+
+**/.next/
+
+**/.*
 **/node_modules/
-**/*-debug.log
+
+*.log
